@@ -56,7 +56,30 @@ This report was developed as part of a data analytics learning project to:
 
 ## Screenshots
 
-![Screenshot 2025-05-12 133306](https://github.com/user-attachments/assets/9f9760b1-3fcc-4351-962b-42bc9aa6a8f1)
+### 1. Sales Overview
+Visualizes total revenue, order volume, and sales by category and region over time.  
+![Executive Dashboard](https://github.com/user-attachments/assets/30e769d2-61ab-439b-8f2f-554f584f2fe7)
+
+
+
+### 2. Customer Insights
+Breaks down customer demographics and purchase behavior.  
+![Customer Details](https://github.com/user-attachments/assets/776b535c-aab9-448f-9780-2612db459e26)
+
+### 3. Product Performance
+Highlights top and bottom selling products by category and date.  
+![Product Detail](https://github.com/user-attachments/assets/f4a83b40-3ba0-43b6-8418-613df6783d5d)
+
+### 4. Total Orders by Country
+![Map visual](https://github.com/user-attachments/assets/d6d8cf23-7b36-4f1e-b1fb-558811237686)
+
+
+### 5. Decomposition Tree 
+![Decomposition Tree](https://github.com/user-attachments/assets/da010090-d137-4a7b-ab3b-0a2fb750a512)
+
+
+### 6. key Influencers
+![key influencers](https://github.com/user-attachments/assets/5ec87887-1539-4bcc-868d-4d3b6abee9c6)
 
 ---
 
